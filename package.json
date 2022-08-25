@@ -1,0 +1,13 @@
+{
+    "name": "sketch-template",
+    "version": "1.0.0",
+    "description": "Base project to easily create sketches and compile them into a single list.",
+    "main": "buildSketches.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node buildSketches.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
